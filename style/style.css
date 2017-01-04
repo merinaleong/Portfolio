@@ -1,0 +1,62 @@
+html {
+  font-family: serif;
+  margin: 6%;
+  height: 100%;
+}
+
+.actionBar {
+  float: bottom right;
+  text-align: right;
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #0097a7;
+}
+
+#work{
+  margin-right:4em;
+}
+
+#contact{
+  margin-right:4em;
+}
+
+#about{
+  margin-right:4em;
+}
+
+#linkedin {
+  width: 75%;
+  height: relative;
+  text-align: center;
+}
+
+#github {
+  width: 75%;
+  height: relative;
+}
+
+#design {
+  width: 75%;
+  height: relative;
+}
+
+#prototypes {
+  width: 75%;
+  height: relative;
+}
+
+#logo {
+  width: 25%;
+  height: relative;
+  float: top left;
+  margin-right: 40%;
+}
+
+body {
+  background-color: #faf9f4;
+}
+header {
+  height: 20%;
+  margin-bottom: 1%;
+}
