@@ -36,8 +36,7 @@ html {
 #portrait {
   height: 55%;
   width: relative;
-  float: right;
-  margin-right: 10%;
+  margin: 10%;
 }
 #logo2 {
   width: 20%;
