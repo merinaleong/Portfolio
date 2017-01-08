@@ -33,11 +33,20 @@ html {
   padding-top: 10%;
 }
 
+.work {
+    float: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+}
 #portrait {
   height: 55%;
   width: relative;
-  margin: 20%;
-  float: top center;
+  margin-left: 15%;
+  margin-top: 10%;
+  margin-right: 20%;
+
 }
 #logo2 {
   width: 20%;
@@ -49,12 +58,38 @@ html {
   color: #0097a7;
 }
 
-#linkedin, #github, #design, #prototypes{
+#linkedin, #github, #design, #prototypes, #hos{
   width: 75%;
   height: relative;
   text-align: center;
   margin-bottom: 10%;
   margin-left: 10%;
+}
+
+#echo, #clevest, #hos{
+  width: 65%;
+  height: relative;
+  text-align: center;
+  margin-bottom: 10%;
+  margin-left: 15%;
+}
+
+#proto2{
+  width: 85%;
+  height: relative;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 10%;
+  margin-left: 15%;
+
+}
+#proto1, #wireframe{
+  width: 75%;
+  height: relative;
+  text-align: center;
+  margin-bottom: 10%;
+  margin-left: 15%;
+  margin-top: 5%;
 }
 
 #logo {
@@ -68,6 +103,6 @@ body {
   background-color: #faf9f4;
 }
 header {
-  height: 27%;
+  height: 25%;
   margin-bottom: 1%;
 }
